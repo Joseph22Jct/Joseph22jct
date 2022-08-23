@@ -1,4 +1,10 @@
-### Hi there 👋
+### Game Developer
+
+I am a game developer and artist, videogames are my passion and it is my dream to create videogames that people enjoy and remember.
+
+You can find things I have done here such as Networking games, UI and Shader work, and interesting game design ideas.
+
+
 
 <!--
 **Joseph22Jct/Joseph22jct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
