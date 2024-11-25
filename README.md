@@ -1,7 +1,5 @@
 ### Computer Scientist, Software Engineer, Game Developer
 
-I am a game developer and artist, videogames are my passion and it is my dream to create videogames that people enjoy and remember.
-
 You can find things I have done here such as Software Dev work, Networking games, UI and Shader work, Coding challenges and Game jam games.
 
 
